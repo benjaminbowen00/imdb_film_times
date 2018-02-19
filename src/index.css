@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#show-times-button {
+  font-size: 24px;
+  
+
+}
+
+p {
+  font-size: 24px;
+}
+
+.film-time {
+  float: right;
+  margin: 0;
+}
+
+.film-div {
+  margin: 20px;
+}
+a {
+  font-size: 24px
+}
+
+.infobox-div {
+  width: 50%;
+  border: 1px solid black;
+  margin: auto;
+}
